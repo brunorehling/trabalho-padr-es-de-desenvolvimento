@@ -5,8 +5,7 @@
 </div>
 
 <div align ="center">
-    <h3> Padrão  escolhido </h3>
-    <h3><strong> Builder </h3>
+    <h3> Padrão  escolhido - Builder </h3>
 </div>
 <div align ="center">
 PROPÓSITO:
@@ -27,7 +26,7 @@ Esse padrão organiza a construção do objeto em etapas, e apenas as etapas nec
 <div align ="center">
 DIRETOR: 
 </div>
-h4
+<h4>
 É possível criar uma classe chamada Diretor, ela define a ordem em que as etapas do Builder serão executadas.
 
 Não é obrigatório, você pode chamar as etapas do builder direto no código, porém o diretor ajuda no reaproveitamento das construções mais comuns em vários lugares do sistema.
@@ -37,7 +36,7 @@ Outra vantagem é que o cliente não precisa saber como o produto é montado. El
 <div align ="center">
 VANTAGENS:
 </div>
-h4
+<h4>
 Você pode construir objetos passo a passo, adiar as etapas de construção ou rodar etapas recursivamente.
 
 Você pode reutilizar o mesmo código de construção quando construindo várias representações de produtos.
