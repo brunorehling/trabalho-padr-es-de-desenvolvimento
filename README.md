@@ -2,6 +2,12 @@
   <h2>Engenharia de Software II</h2>
   <h3>Padrões de desenvolvimento</h3>
   <h3>Bruno Beiró Rehling</h3>
+  <h3>
+  Link do vídeo de apresentação: 
+  <a href="https://drive.google.com/file/d/1eRC5Sec9S6dfY6l6NWcYy_J-oSMKfTIU/view?usp=sharing" target="_blank">
+    Assistir vídeo
+  </a>
+</h3>
 </div>
 
 <div align ="center">
@@ -185,11 +191,9 @@ DESVANTAGENS:
 <h4 style="border: 1px solid rgb(49, 49, 49); border-radius: 8px; padding: 16px; margin: 10px 0; background-color:rgb(49, 49, 49)">
 ❌ A complexidade geral do código aumenta uma vez que o padrão exige criar múltiplas classes novas.
 </h4>
-<div align ="center">
-
 <div align="center">
 CONCLUSÃO
 </div>
-<h4>
+<h4 style="border: 1px solid rgb(49, 49, 49); border-radius: 8px; padding: 16px; margin: 10px 0; background-color:rgb(49, 49, 49)">
  O Builder é um padrão de desenvolvimento ideal para lidar com classes com muitos atributos. Embora torne o código um pouco mais trabalhoso de escrever, acaba compensando em projetos maiores.
 </h4>
